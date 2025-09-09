@@ -10,8 +10,8 @@ This log documents each stage with screenshots.
 - Cloned locally and added `.gitignore`, `README.md`, `CONTRIBUTING.md`, `intro.md`, and a `pages/` folder with story stubs.
 - Made initial commit and pushed to `main`.
 
-![Stage 1 Repo Home] (screenshots/stage1.png)
-![Stage 1 Initial Commit in VS Code] (screenshots/stage1 -1.png)
+![Stage 1 Repo Home](screenshots/stage1.png)  
+![Stage 1 Initial Commit in VS Code](screenshots/stage1-1.png)
 
 ---
 
@@ -19,14 +19,14 @@ This log documents each stage with screenshots.
 - Created branch `will-choice-a` and added Choice A content. Opened PR and left a review comment.  
 - Created branch `will-choice-b` and added Choice B content. Opened PR and left a review comment.  
 
-![Stage 2 PR Example] (screenshots/stage2.png)
+![Stage 2 PR Example](screenshots/stage2.png)
 
 ---
 
 ## Stage 3 — Review
 - Reviewed each PR, left comments, merged into `main`, and deleted the branches.  
 
-![Stage 3 PRs Merged] (screenshots/stage3.png)
+![Stage 3 PRs Merged](screenshots/stage3.png)
 
 ---
 
@@ -34,7 +34,7 @@ This log documents each stage with screenshots.
 - Created new branch `will-edit-a` for a small change on A2-observe.  
 - Opened PR, left a quick comment, merged, and deleted the branch.  
 
-![Stage 4 Edit PR] (screenshots/stage4.png)
+![Stage 4 Edit PR](screenshots/stage4.png)
 
 ---
 
@@ -43,8 +43,8 @@ This log documents each stage with screenshots.
 - Verified merged branches with `git branch --merged`.  
 - Repo is now finalized with all branches merged.  
 
-![Stage 5 Merged Branches]  (screenshots/stage5-merged-branches.png) 
-![Stage 5 Final Repo] (screenshots/stage5-repo-final.png)
+![Stage 5 Merged Branches](screenshots/stage5-merged-branches.png)  
+![Stage 5 Final Repo](screenshots/stage5-repo-final.png)
 
 ---
 
@@ -52,4 +52,4 @@ This log documents each stage with screenshots.
 - I worked solo but followed GitHub Flow exactly as if I had teammates.  
 - PR comments are included to simulate review feedback.  
 - All branches (`will-choice-a`, `will-choice-b`, `will-edit-a`) were merged back into `main` and deleted afterwards.  
-- Final repository URL: [https://github.com/Will11521/cyoa-markdown-story](https://github.com/Will11521/cyoa-markdown-story)  
+- Final repository URL: [https://github.com/Will11521/cyoa-markdown-story](https://github.com/Will11521/cyoa-markdown-story)
