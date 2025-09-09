@@ -26,7 +26,3 @@ The process went through 5 stages:
 5. **Finalize** → All branches merged, verified with `git branch --merged`.  
 
 Screenshots of each stage are in the `WORKFLOW.md` file.
-
----
-
-## 📂 Project Structure
